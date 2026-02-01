@@ -17,7 +17,8 @@ app.use(cookieParser());
 app.use(cors({
      origin: [
         "http://localhost:5173", 
-        "https://smartphone-frontend-mtei5zj4f-rajeshs-projects-27e217c3.vercel.app" // இதுதான் உங்கள் Vercel Link
+        "https://smartphone-frontend-mtei5zj4f-rajeshs-projects-27e217c3.vercel.app",
+          "https://smartphone-frontend-chi.vercel.app"  // இதுதான் உங்கள் Vercel Link
     ], // Frontend URL
     credentials: true,
     allowedHeaders: ["Content-Type", "Authorization"]
