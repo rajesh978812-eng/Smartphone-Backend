@@ -4,7 +4,7 @@ const router = express.Router();
 // அனைத்து Controller Function-களையும் Import செய்தல்
 const { 
     getProducts, 
-    getSingleProducts, 
+    getSingleProduct, 
     createProduct, 
     deleteProduct, 
     createProductReview 
@@ -22,7 +22,7 @@ router.route('/').get(getProducts);
 router.route('/review').put(isAuthenticatedUser, createProductReview);
 
 // 3. Get Single Product (By ID)
-router.route('/:id').get(getSingleProducts);
+router.route('/:id').get(getSingleProduct);
 
 
 // --- ADMIN ROUTES (நிர்வாகிகள் மட்டும்) ---

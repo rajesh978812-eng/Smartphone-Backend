@@ -39,7 +39,7 @@ exports.getProducts = async (req, res, next) => {
 };
 
 // 3. Get Single Product (For Details Page)
-exports.getSingleProducts = async (req, res, next) => {
+exports.getSingleProduct = async (req, res, next) => {
     try {
         // ID-ஐ வைத்து குறிப்பிட்ட Product-ஐ தேடுதல்
         const product = await ProductModel.findById(req.params.id);
