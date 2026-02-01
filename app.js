@@ -31,6 +31,7 @@ const users = require('./routes/user'); // User route-ஐ இணைக்கவ�
 
 // Use Routes
 app.use('/api/products', products);
+app.use('/api/product', products);
 app.use('/api', orders);
 app.use('/api/users', users); // User Login/Register-க்கான route
 
