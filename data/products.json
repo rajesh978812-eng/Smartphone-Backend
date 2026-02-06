@@ -29,7 +29,7 @@
     "image": "iphone 15.webp",
     "camera": "48MP",
     "battery": "3349mAh",
-    "ratings": 4.6,
+    "ratings": 3.6,
     "numOfReviews": 850,
     "description": "New 48MP Main camera. 2x Telephoto. All-day battery life. And USB-C. Durable color-infused glass and aluminum design."
   },
@@ -46,7 +46,7 @@
     "image": "Samsung Galaxy S24 Ultra",
     "camera": "200MP",
     "battery": "5000mAh",
-    "ratings": 4.9,
+    "ratings": 3.9,
     "numOfReviews": 2100,
     "description": "Galaxy S24 Ultra with Galaxy AI. 200MP Camera, Titanium Frame, and the most powerful Snapdragon 8 Gen 3 processor."
   },
@@ -80,7 +80,7 @@
     "image": "OnePlus 12wc3.jpg",
     "camera": "50MP",
     "battery": "5400mAh",
-    "ratings": 4.5,
+    "ratings": 3.5,
     "numOfReviews": 1120,
     "description": "Smooth Beyond Belief. OnePlus 12 powered by Snapdragon 8 Gen 3 and a massive 5400mAh battery."
   },
@@ -131,7 +131,7 @@
     "image": "Google Pixel 8.jpg",
     "camera": "50MP",
     "battery": "4575mAh",
-    "ratings": 4.4,
+    "ratings": 3.4,
     "numOfReviews": 420,
     "description": "Powerful, helpful, and built to last. Powered by Google Tensor G3."
   },
@@ -165,7 +165,7 @@
     "image": "Xiaomi 13T Pro.jpg",
     "camera": "50MP",
     "battery": "5000mAh",
-    "ratings": 4.4,
+    "ratings": 3.4,
     "numOfReviews": 210,
     "description": "Masterpiece in sight. Professional Leica camera system and 120W HyperCharge."
   },
@@ -233,7 +233,7 @@
     "image": "Oppo Reno 11 Pro.webp",
     "camera": "50MP",
     "battery": "4600mAh",
-    "ratings": 4.2,
+    "ratings": 3.2,
     "numOfReviews": 560,
     "description": "The Portrait Expert. Ultra-Clear Portrait Camera System with 80W SUPERVOOC Flash Charge."
   },
@@ -267,7 +267,7 @@
     "image": "Realme Narzo 70 Pro.jpg",
     "camera": "50MP",
     "battery": "5000mAh",
-    "ratings": 4.4,
+    "ratings": 3.4,
     "numOfReviews": 2100,
     "description": "Best in class low light camera. Air Gesture control and premium glass design."
   },
@@ -318,7 +318,7 @@
     "image": "iQOO 12 5G.png",
     "camera": "50MP",
     "battery": "5000mAh",
-    "ratings": 4.7,
+    "ratings": 3.7,
     "numOfReviews": 750,
     "description": "India's first Snapdragon 8 Gen 3. The ultimate gaming and photography powerhouse."
   },
@@ -369,7 +369,7 @@
     "image": "iphone 13.jpg",
     "camera": "12MP",
     "battery": "3240mAh",
-    "ratings": 4.7,
+    "ratings": 3.7,
     "numOfReviews": 5600,
     "description": "Superbright display. Durable design. Hollywood-quality video shooting made easy."
   },
@@ -420,7 +420,7 @@
     "image": "Samsung Galaxy Z Flip 5.jpg",
     "camera": "12MP",
     "battery": "3700mAh",
-    "ratings": 4.6,
+    "ratings": 3.6,
     "numOfReviews": 980,
     "description": "Join the flip side. Large Flex Window for selfies and widgets, fitting perfectly in your pocket."
   },
@@ -454,7 +454,7 @@
     "image": "OnePlus Open.jpg",
     "camera": "48MP",
     "battery": "4805mAh",
-    "ratings": 4.8,
+    "ratings": 3.8,
     "numOfReviews": 320,
     "description": "Open for everything. Light, compact, and durable foldable with Hasselblad camera system."
   },
@@ -488,7 +488,7 @@
     "image": "OnePlus Nord CE 4.jpg",
     "camera": "50MP",
     "battery": "5500mAh",
-    "ratings": 4.4,
+    "ratings": 3.4,
     "numOfReviews": 1800,
     "description": "All power. All you. 100W SUPERVOOC charging and Snapdragon 7 Gen 3."
   },
@@ -505,7 +505,7 @@
     "image": "Google Pixel 7a.jpg",
     "camera": "64MP",
     "battery": "4385mAh",
-    "ratings": 4.3,
+    "ratings": 3.3,
     "numOfReviews": 2200,
     "description": "Built to perform. Rated best mid-range camera with Google's helpful AI features."
   },
@@ -590,7 +590,7 @@
     "image": "Redmi 13C.jpg",
     "camera": "50MP",
     "battery": "5000mAh",
-    "ratings": 4.2,
+    "ratings": 3.2,
     "numOfReviews": 6000,
     "description": "5G for everyone. Stylish design with dynamic visual experience."
   },
@@ -641,7 +641,7 @@
     "image": "Vivo Y200e.jpg",
     "camera": "50MP",
     "battery": "5000mAh",
-    "ratings": 4.3,
+    "ratings": 3.3,
     "numOfReviews": 1100,
     "description": "India's first durable Eco-Fiber Leather finish with 120Hz Ultra Vision Display."
   },
@@ -692,7 +692,7 @@
     "image": "Oppo A79.jpg",
     "camera": "50MP",
     "battery": "5000mAh",
-    "ratings": 4.2,
+    "ratings": 3.2,
     "numOfReviews": 890,
     "description": "Supervooc Charging. Dual Stereo Speakers and Glowing Feather Design."
   },
