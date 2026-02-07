@@ -28,8 +28,8 @@ const seedProducts = async () => {
                 id: undefined,  
                 camera: product.camera || "50MP",       
                 battery: product.battery || "5000mAh",  
-                ratings: 4.5,
-                numOfReviews: Math.floor(Math.random() * 100) 
+                ratings: product.ratings || 0,
+                numOfReviews: product.numOfReviews || Math.floor(Math.random() * 100) 
             };
         });
 
